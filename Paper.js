@@ -24,7 +24,7 @@ translate(pos.x,pos.y)
 strokeWeight(2);
 stroke("pink");
 fill(210,81,162);
-ellipse(0,0,this.r);
+ellipse(0,0,this.r*2);
 pop()
 
 }
